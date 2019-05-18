@@ -1,0 +1,159 @@
+.main{
+    width: 1000px;
+}
+.post-top-part {
+    margin: 0 auto;
+}
+.post-top-part .progcontrl {
+    overflow: hidden;
+    margin-top: 19px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.progcontrl .propbar {
+    font-size: 12px;
+    width: 320px;
+    float: left;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #d2cdca;
+    margin: 0 15px 20px 0;
+}
+#propbarthree {
+    margin-right: 0px;
+}
+.progcontrl .active {
+    color: #ed6d06;
+    font-size: 12px;
+    width: 320px;
+    float: left;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #ed6d06;
+    margin: 0 15px 20px 0;
+}
+.paytoptips {
+    width: 970px;
+    color: #ec4514;
+    padding: 10px 15px;
+    background-color: #fffbe4;
+    margin-bottom: 30px;
+}
+.paytoptips .paytips {
+    margin-left: 26px;
+}
+p {
+    margin: 0 auto;
+    text-align: left;
+    font: 400 14px/190% Hiragino Sans GB,微软雅黑,Microsoft YaHei,SimHei,Tahoma,宋体,SimSun,sansserif;
+}
+.post-main{
+    width: 900px;
+    margin: 0 auto;
+    font-size: 14px;
+}
+.block-title{
+    padding: 10px 0;
+}
+.row-wrap{
+    padding: 10px 0;
+}
+.block-title h3 {
+    margin: 0;
+    width: 150px;
+    line-height: 20px;
+    color: #000;
+    font-size: 14px;
+    text-align: right;
+    font-family: "Hiragino Sans GB","微软雅⿊","Microsoft YaHei",SimHei,Tahoma,"宋体b8b体",SimSun,sansserif;
+    font-weight: bolder;
+}
+.row-title {
+    float: left;
+    width: 150px;
+    text-align: right;
+    margin-right: 30px;
+}
+.row-title span{
+    display: block;
+    font-size: 14px;
+    line-height: 34px;
+    color: grey;
+    text-align: right;
+}
+.row-content {
+    float: left;
+    width: 720px;
+    padding-bottom: 30px;
+}
+.input-text {
+    float: left;
+    border: 1px solid #e0e0e0;
+    border-radius: 3px;
+    margin-right: 5px;
+    font-size: 14px;
+    padding: 0 8px;
+    height: 34px;
+    width: 100px;
+}
+.input-text input:focus .input-text{
+    border: 1px solid #8da6fe;
+}
+.input-text:hover{
+    border: 1px solid #888;
+}
+.input-text input {
+    height: 34px;
+    line-height: 34px;
+    border: 0;
+    text-align: left;
+    z-index: 10;
+}
+.input-text select {
+    height: 34px;
+    line-height: 34px;
+    border: 0;
+    text-align: left;
+}
+.input-text textarea {
+    width: 500px;
+    border: none;
+    resize:none;
+    font-size: 15px;
+    color: #2d2d2d;
+}
+.input-text .submit_bt {
+    width:150px;
+    font-size: 20px;
+    color: white;
+    background-color: #ed6d06;
+    text-align: center;
+}
+.post-main .choose-item {
+    margin: 0 auto;
+    padding-top: 100px;
+    text-align: center;
+    width: 500px;
+}
+.post-main .choose-item .post-item {
+    float: left;
+    width: 200px;
+    height: 70px;
+    margin-right: 50px;
+    font-size: 26px;
+    line-height: 70px;
+    color: white;
+    background-color: #ff7043;
+}
+.post-main .choose-item .post-over {
+    float: left;
+    width: 300px;
+    height: 70px;
+    font-size: 26px;
+    line-height: 70px;
+    color: white;
+    background-color: #ff7043;
+}
+.post-main .choose-item a{
+    color: blue;
+    line-height: 30px;
+}

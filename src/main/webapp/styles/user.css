@@ -1,0 +1,212 @@
+.main {
+    width: 1150px;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+.user_body_left{
+    float: left;
+    width: 205px;
+    height: 300px;
+    border: 1px solid #888888;
+}
+.user_body_left .user_info {
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 0;
+    border-bottom: 1px solid #888888;
+}
+.user_info .user-photo-box {
+    width: 120px;
+    margin: 0 auto;
+}
+.user-photo-box .userphoto {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+}
+.user-photo-box span{
+    width: 100%;
+    line-height: 40px;
+    font-size: 20px;
+}
+.user_info_profile{
+    width: 160px;
+    padding: 10px 0;
+    margin: 0 auto;
+}
+.user_info_profile span {
+    line-height: 25px;
+    font-size: 16px;
+}
+.user_manage {
+    width: 100px;
+    margin: 0 auto;
+    text-align: center;
+}
+.user_manage span {
+    line-height: 25px;
+    font-size: 20px;
+}
+.user_manage a {
+    line-height: 25px;
+    font-size: 14px;
+}
+.user_manage a:hover {
+    color: #ff7043;
+}
+
+.user_body_right{
+    float: left;
+    width: 940px;
+}
+.user_body_right .bar {
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    border: 1px solid #888888;
+}
+.user_body_right .show_result {
+    border: 1px solid #888888;
+}
+.bar .type_item {
+    float: left;
+    width: 100px;
+    margin: 0 50px;
+    line-height: 40px;
+    text-align: center;
+}
+.type_item a {
+    font-size: 16px;
+}
+.type_item a:hover {
+    font-size: 17px;
+    color: #ff4910;
+}
+
+.search_item {
+    float: left;
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    margin: 0 10px;
+}
+.search_item span{
+    float: left;
+}
+.search_item .item {
+    float: left;
+    margin-right: 10px;
+}
+.search_item .radio_box:hover {
+    color: #ff4910;
+}
+
+.search_item .input-text {
+    float: left;
+    border: 1px solid #e0e0e0;
+    border-radius: 3px;
+    height: 30px;
+    margin: 5px 0;
+}
+.input-text .inputStyle{
+    width: 100px;
+    height: 30px;
+    border: none
+}
+
+.search_item .submit_box {
+    float: left;
+    border: 1px solid #e0e0e0;
+    border-radius: 3px;
+    height: 28px;
+    margin: 5px 0;
+}
+.submit_box .submit_bt {
+    width: 70px;
+    height: 28px;
+    background-color: rgba(151, 151, 151, 0.44);
+    font-size: 16px;
+    border: none
+}
+.submit_box .submit_bt:hover {
+    color: white;
+    background-color: #ff7043;
+}
+.infor-box{
+    height: 170px;
+    border-bottom: 1px solid #f3f3f3;
+}
+.infor-box .infor_type{
+    float: left;
+    width: 30px;
+    margin-top: 30px;
+    text-align: center;
+}
+.infor-box .infor_type h2{
+    margin: 0 auto;
+    color: #ff7043;
+}
+.infor-box .content{
+    float: left;
+    width: 600px;
+    margin: 30px 0 20px 20px;
+}
+
+.infor-box .opration {
+    float: right;
+    width: 100px;
+    height: 30px;
+    margin: 10px 20px 10px 0;
+}
+.opration a{
+    font-size: 14px;
+    line-height: 20px;
+}
+.opration a:hover{
+    color: #ff7043;
+    font-size: 15px;
+}
+
+.user_body_right table {
+    width: 840px;
+    float: left;
+    margin: 0 50px;
+    text-align: center;
+}
+table h2{
+    height: 40px;
+    margin: 0 auto;
+}
+table tr{
+    height: 30px;
+    font-size: 16px;
+    line-height: 30px;
+}
+table .updateUser{
+    width: 200px;
+    height: 28px;
+    margin: 0 20px;
+    border: none;
+}
+table .updateOver_bt {
+    font-size: 16px;
+    width: 100px;
+    height: 26px;
+    margin: 0 20px;
+    border: none;
+    border-radius: 3px;
+    background-color: rgba(151, 151, 151, 0.44);
+}
+table .updateOver_bt:hover{
+    color: white;
+    font-size: 17px;
+    background-color: #ff7043;
+}
+.bottomPage {
+    margin: 0 auto;
+    padding: 10px 0;
+}
+.bottomPage .center {
+    margin: 0 auto;
+    width: 400px;
+}

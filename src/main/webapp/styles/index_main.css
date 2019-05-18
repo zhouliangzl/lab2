@@ -1,0 +1,60 @@
+.main .usedGoods, .house {
+    height: 420px;
+    margin-top: 10px;
+    background-color:#ffffff;
+    border: 1px solid #ededed;
+}
+.poster {
+    width: 300px;
+}
+.poster .title {
+    float: right;
+    position: absolute;
+    margin: 80px 0 0 210px;
+    height: 200px;
+    width: 40px;
+}
+.poster .title span{
+    font-size: 36px;
+    text-align: center;
+    line-height: 50px;
+    color: #555555;
+}
+.right_show {
+    float: right;
+    width: 880px;
+}
+.right_show .show-box {
+    float: left;
+    width: 180px;
+    height: 199px;
+    padding: 0 10px;
+    margin: 0 9px;
+    border: 1px solid #ededed;
+}
+.right_show .show-box:hover {
+    background-color: #f8f8f8;
+    border-color: #ff7043;
+}
+.right_show .show-box:hover h3{
+    color: #ff7043;
+}
+.show-box .house-info {
+    font-size: 13px;
+}
+.show-box h3{
+    margin: 7px 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.show-box .house-type {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.show-box .house-rent span{
+    line-height: 30px;
+    color: #ff7043;
+    font-size: 20px;
+}

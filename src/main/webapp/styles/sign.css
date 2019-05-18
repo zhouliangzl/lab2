@@ -1,0 +1,94 @@
+.main{
+    width: 1000px;
+    padding-bottom: 80px;
+}
+.signtoptips {
+    width: 950px;
+    color: #ec4514;
+    padding: 10px 15px;
+    background-color: #fffbe4;
+    margin: 10px 0 20px 0;
+}
+.signtoptips .signtips {
+    margin-left: 26px;
+}
+p {
+    margin: 0 auto;
+    text-align: left;
+    font: 400 16px/190% Hiragino Sans GB,微软雅黑,Microsoft YaHei,SimHei,Tahoma,宋体,SimSun,sansserif;
+}
+.sign_title {
+    width: 970px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.sign_title span {
+    margin: 0;
+    line-height: 28px;
+    color: #000;
+    font-size: 22px;
+    font-family: "Hiragino Sans GB","微软雅⿊","Microsoft YaHei",SimHei,Tahoma,"宋体b8b体",SimSun,sansserif;
+    font-weight: bolder;
+}
+.contract_box {
+    width: 970px;
+    font-size: 14px;
+    padding: 5px;
+    text-align: left;
+    background-color: #f8f8f8;
+    margin-bottom: 30px;
+}
+.mutual_infor .title {
+    font-weight: bolder;
+    font-size: 16px;
+}
+.mutual_infor input{
+    border: none;
+    background-color: #f8f8f8;
+    border-bottom: 1px solid black;
+    width: 200px;
+}
+.law_infor{
+    padding: 20px;
+}
+.law_infor span{
+    line-height: 24px;
+    color: #000;
+    font-size: 16px;
+    font-family: "Hiragino Sans GB","微软雅⿊","Microsoft YaHei",SimHei,Tahoma,"宋体b8b体",SimSun,sansserif;
+    font-weight: bolder;
+}
+.contract_box .content{
+    font: 400 16px/190% Hiragino Sans GB,微软雅黑,Microsoft YaHei,SimHei,Tahoma,宋体,SimSun,sansserif;
+}
+.contract_box .content span{
+    line-height: 20px;
+}
+.contract_box .content p{
+    line-height: 26px;
+    font-size: 16px;
+}
+.contract_box .content .infor{
+    border-bottom: 1px solid black;
+    padding: 0 10px;
+}
+.contract_box .content .part{
+    margin-bottom: 20px;
+}
+.submit_bt {
+    float: right;
+    border: 1px solid #e0e0e0;
+    border-radius: 3px;
+    margin-right: 20px;
+    padding: 0 5px;
+    height: 34px;
+    width: 150px;
+    font-size: 20px;
+    line-height: 34px;
+    background-color: rgba(151, 151, 151, 0.44);
+    text-align: center;
+}
+.submit_bt:hover {
+    color: white;
+    background-color: #ff7043;
+}

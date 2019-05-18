@@ -1,0 +1,173 @@
+.house-basic-info {
+    width: 100%;
+    height: 390px;
+    margin-bottom: 30px;
+}
+.house-basic-left {
+    float: left;
+    width: 520px;
+    height: 100%;
+}
+.house-basic-right {
+    float: right;
+    width: 620px;
+    border-top: 1px solid #f3f3f3;
+}
+.house-basic-desc{
+    overflow: hidden;
+}
+.house-basic-desc .house-desc {
+    height: 320px;
+    width: 400px;
+    float: left;
+}
+.house-basic-desc .poster-desc {
+    height: 320px;
+    width: 200px;
+    float: right;
+}
+.poster-desc .poster-photo-box {
+    width: 100px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+}
+.poster-photo-box .poster-photo {
+    border-radius: 50%;
+    padding: 2px;
+    width: 100px;
+    height: 100px;
+    background: #FFF;
+    border: 1px solid #9b9b9b;
+    border: currentcolor;
+}
+.poster-desc span{
+    width: 100%;
+    line-height: 40px;
+    font-size: 20px;
+}
+.poster-desc span:hover{
+    color: #ff4910;
+}
+.house-basic-desc .house-desc .rent{
+    color: #FF552E;
+    font-size: 16px;
+    height: 80px;
+}
+.house-desc .rent b{
+    line-height: 80px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+.house-desc .ul1{
+    font-size: 14px;
+}
+.house-desc .ul1 li{
+    line-height: 40px;
+}
+.house-desc .ul1 span{
+    display: inline-block;
+    margin-right: 15px;
+    color: rgb(51,51,51);
+}
+.house-desc .ul1 .sp1{
+    font-family: "Microsoft YaHei UI";
+    color: #888;
+}
+.house-basic-right .house-basic-conn {
+    overflow: hidden;
+}
+.house-basic-conn .house-chat-phone {
+    float: left;
+    width: 320px;
+    height: 70px;
+    line-height: 70px;
+    background: rgba(255,85,46,.9);
+    font-size: 28px;
+    color: #FFF;
+    text-align: center;
+    margin-right: 80px;
+}
+.house-basic-conn .house-chat-phone a {
+    color: white;
+}
+.house-chat-phone .house-chat-icon {
+    display: block;
+    background-repeat: no-repeat;
+    width: 66px;
+    height: 70px;
+    background-color: #FF552E;
+    background-image: url(https://pic1.58cdn.com.cn/nowater/fangfe/n_v2c3c3ee98766c42549b2bb5b4cf3b553a.png);
+    background-position: center;
+    background-size: 37px 37px;
+    float: left;
+}
+.house-basic-conn .house-sign{
+    float: right;
+    width: 200px;
+    height: 70px;
+    background: rgba(255,85,46,.9);
+    text-align: center;
+}
+.house-basic-conn .house-sign a{
+    line-height: 70px;
+    font-size: 22px;
+    color: #FFF;
+}
+.house-detile-info{
+    border-top: 1px solid #f3f3f3;
+    overflow: hidden;
+}
+.house-detile-info .house-detile-desc{
+    float: left;
+    width: 700px;
+}
+.house-detile-info .side-right-info{
+    float: right;
+    margin-top: 10px;
+    width: 300px;
+}
+.side-right-info .ad{
+    height: 200px;
+    border: 1px solid #ff4910;
+}
+.house-detile-desc .report-text{
+    width: 100%;
+    height: 44px;
+    line-height: 44px;
+    background: #FFFAF8;
+    padding: 0 7px;
+    font-size: 12px;
+    color: #555;
+}
+.ul2 li{
+    margin: 10px 0;
+}
+.ul2 .left-title{
+    width: 90px;
+    float: left;
+    font-size: 16px;
+    color: #333;
+    line-height: 30px;
+}
+.ul2 .right-text{
+    width: 610px;
+    float: left;
+    font-size: 14px;
+    color: #666;
+    line-height: 30px;
+}
+.ul2 textarea{
+    font-size: 14px;
+    color: #666;
+    line-height: 30px;
+    width: 620px;
+    resize: none;
+}
+.ul2 .textarea1{
+    height: 80px;
+}
+.ul2 .textarea2{
+    height: 200px;
+}
