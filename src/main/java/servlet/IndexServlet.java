@@ -22,7 +22,7 @@ public class IndexServlet extends HttpServlet {
     protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         List<House> houseList = new ArrayList<>();
         List<Goods> goodsList = new ArrayList<>();
-
+        System.out.println();
         HouseService houseService = new HouseService();
         GoodsServices goodsServices = new GoodsServices();
         try {
